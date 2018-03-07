@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+}
+
+#main-banner {
+  background-image: image("./Resources/images/the-flatiron-building.png");
+}
+
+h1{
+  font-family: "Helvetica";
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+}
+
+p.main-banner{
+  font-family: "Helvetica";
+  font-size: 18px;
+  color:white;
+}
+
+h2{
+  font-family: "Helvetica";
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: "Helvetica";
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-family: "Helvetica";
+  font-size: 14px;
+}
+
+h2.mid-header{
+  background-image: image("./Resources/images/the-flatiron-building.png");
+  color:white;
+  font-family: "Helvetica";
+  font-size: 23px;
+  font-weight: bold;
+}
