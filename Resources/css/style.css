@@ -6,7 +6,11 @@ body{
 #main-banner {
   background-image: url("../images/the-flatiron-building.png");
   font-size: 18px;
-  color:white;
+  color:white !important;
+}
+
+.nav{
+  font-size: 11px;
 }
 
 h1{
@@ -35,12 +39,8 @@ p{
     color:white !important;
 }
 
-#footer{
+.footer{
     background-color: dimgray;
     text-align: left;
     color:white;
-}
-.copyright{
-  font-size: 11px;
-
 }
